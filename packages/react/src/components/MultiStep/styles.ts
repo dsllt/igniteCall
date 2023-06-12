@@ -6,7 +6,7 @@ export const MultiStepContainer = styled('div', {})
 export const Label = styled(Text, {
   color: '$gray200',
   defaultVariants: {
-    size: 'xs',
+    size: 'xs', 
   },
 })
 
