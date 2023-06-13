@@ -17,6 +17,13 @@ const config = {
   docs: {
     autodocs: 'tag',
     defaultName: 'Documentation',
-  },
+  },  
+  viteFinal: (config, { configType }) => {
+    if (configType === 'PRODUCTION') {
+      config.base = '/igniteCall/'
+    }
+
+    return config
+  }
 };
 export default config;
