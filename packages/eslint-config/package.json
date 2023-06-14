@@ -1,5 +1,5 @@
 {
-  "name": "@dsllt-ignite-ui/eslint-config",
+  "name": "@ignite-ui/eslint-config",
   "license": "MIT",
   "private": true,
   "main": "index.js",

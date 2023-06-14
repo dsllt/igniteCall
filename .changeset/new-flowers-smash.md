@@ -1,7 +1,7 @@
 ---
-"@dsllt-ignite-ui/ts-config": major
-"@dsllt-ignite-ui/tokens": major
-"@dsllt-ignite-ui/react": major
+"@ignite-ui/ts-config": major
+"@ignite-ui/tokens": major
+"@ignite-ui/react": major
 ---
 
 Create the changeset

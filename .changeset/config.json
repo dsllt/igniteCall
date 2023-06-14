@@ -8,6 +8,6 @@
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
   "ignore": [
-    "@dsllt-ignite-ui/docs"
+    "@ignite-ui/docs"
   ]
 }
