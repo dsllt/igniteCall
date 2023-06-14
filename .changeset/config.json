@@ -7,7 +7,5 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": [
-    "@ignite-ui/docs"
-  ]
+  "ignore": ["@dsllt-ignite-ui/docs"]
 }
