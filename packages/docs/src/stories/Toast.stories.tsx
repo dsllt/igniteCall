@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Toast, ToastProps } from '@ignite-ui/react'
+import { Toast, ToastProps } from '@dsllt-ignite-ui/react'
 
 export default {
   title: 'Data display/Toast',
